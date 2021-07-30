@@ -29,11 +29,11 @@ A CRUD API developed in NodeJs using the Nest framework.
 
 1. Clone the repo
 ```sh
-git clone https://github.com/RishabhKodes/Nest_api.git
+git clone https://github.com/RishabhKodes/Nest_API.git
 ```
 2. Goto root directory
 ```sh
-cd Nest_api
+cd Nest_API
 ```
 3. Install NPM packages
 ```sh
